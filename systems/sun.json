@@ -15,7 +15,7 @@
     {
       "name": "sunSystem",
       "id": "sunSystem",
-      "capacity": 1000,
+      "capacity": 600,
       "renderingGroupId": 3,
       "isBillboardBased": false,
       "particleEmitterType": {
@@ -82,8 +82,8 @@
         {
           "gradient": 0.4,
           "color1": [
-            0.6259,
-            0.3056,
+            0.8259,
+            0.8056,
             0.0619,
             0.5
           ]
@@ -91,8 +91,8 @@
         {
           "gradient": 0.5,
           "color1": [
-            0.6039,
-            0.2887,
+            0.8039,
+            0.8887,
             0.0579,
             0.5
           ]
