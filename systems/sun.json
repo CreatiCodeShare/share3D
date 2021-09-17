@@ -15,7 +15,7 @@
     {
       "name": "sunSystem",
       "id": "sunSystem",
-      "capacity": 1600,
+      "capacity": 1000,
       "renderingGroupId": 3,
       "isBillboardBased": false,
       "particleEmitterType": {
@@ -238,7 +238,7 @@
       "name": "glareParticles",
       "id": "glareParticles",
       "renderingGroupId": 1,
-      "capacity": 600,
+      "capacity": 300,
       "particleEmitterType": {
         "type": "SphereParticleEmitter",
         "radius": 1,
