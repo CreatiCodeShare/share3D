@@ -15,7 +15,7 @@
     {
       "name": "sunSystem",
       "id": "sunSystem",
-      "capacity": 600,
+      "capacity": 1600,
       "renderingGroupId": 3,
       "isBillboardBased": false,
       "particleEmitterType": {
